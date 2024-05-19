@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dcae4ac-0b2d-44dc-a84e-4216991985ec" name="Changes" comment="">
+    <list default="true" id="1dcae4ac-0b2d-44dc-a84e-4216991985ec" name="Changes" comment="LoginScript updated">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/AppiumCapability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/AppiumCapability.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/AppiumCapability.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,20 +47,28 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;AndroidSetup&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nidamaqsood/IdeaProjects/SLGoPOC&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;748584c7ea582ac3c86ee4209ae759d0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.LoginTest">
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.login">
+    <configuration name="LoginTest" type="TestNG" nameIsGenerated="true">
       <module name="SLGoPOC" />
       <extension name="coverage">
         <pattern>
@@ -91,7 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.login" />
+        <item itemvalue="TestNG.LoginTest.login" />
         <item itemvalue="TestNG.LoginTest.login" />
       </list>
     </recent_temporary>
@@ -118,25 +133,57 @@
       <workItem from="1715085778254" duration="730000" />
       <workItem from="1715183238386" duration="1453000" />
       <workItem from="1715187257626" duration="4928000" />
-      <workItem from="1715235372824" duration="1729000" />
+      <workItem from="1715235372824" duration="5940000" />
+      <workItem from="1715242536593" duration="393000" />
+      <workItem from="1715242944670" duration="206000" />
+      <workItem from="1715317853219" duration="2853000" />
+      <workItem from="1715341092633" duration="2707000" />
+      <workItem from="1715601642130" duration="5029000" />
+      <workItem from="1715681537608" duration="6018000" />
+      <workItem from="1715754315320" duration="3634000" />
+      <workItem from="1715762330460" duration="1712000" />
+      <workItem from="1715766056489" duration="1812000" />
     </task>
+    <task id="LOCAL-00001" summary="LoginScript updated">
+      <option name="closed" value="true" />
+      <created>1715237551807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715237551807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LoginScript updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="LoginScript updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/tests/LoginTest.java</url>
-          <line>20</line>
+          <line>26</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java</url>
-          <line>31</line>
+          <line>47</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/LoginTest.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/LoginTest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
